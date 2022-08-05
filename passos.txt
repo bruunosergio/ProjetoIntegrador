@@ -1,0 +1,17 @@
+1- Cadastro - Ok
+2- autenticação - Ok
+
+----------------------------------------------------
+3- Cadastro de Colaboradores - Feito
+
+4- Permissões e Session - Em processamento
+5- Sessão -> login e logout - Em processamento
+
+6- Cadastro de Paciente - Feito
+
+7- Cadastro de Casos Comuns - Em Processamento
+8- Cadastro de Consulta - Em processamento...
+Envolve Colaborador, Paciente , Casos Comuns, computando para a geração de Relatório 
+----------------------------------------------------
+
+9- Geração de Relatório - falta
